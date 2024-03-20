@@ -1,4 +1,3 @@
-BAEKJOON_74880761.java
 /*
 ** This code is just representing to how it solve it.
 ** There are more things that you can save the time.
