@@ -11,7 +11,7 @@ import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
 /**
- * 문자열 저장 및 탐색할 때, 시간 오버를 경험할 수 있다. 아리 트라이(Trie)구조는 그냥 외우자.
+ * 문자열 저장 및 탐색할 때, 시간 오버를 경험할 수 있다. 아래 트라이(Trie)구조는 그냥 외우자.
  * 
  * 트라이(Trie)는 문자열을 저장하고 효율적으로 탐색하기 위한 트리 형태의 자료구조이다.
  * 우리가 검색할 때 볼 수 있는 자동완성 기능, 사전 검색 등 문자열을 탐색하는데 특화되어있는 자료구조라고 한다.
