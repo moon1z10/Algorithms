@@ -1,0 +1,5 @@
+public enum QUICSORT_PIVOT_SELECT {
+    LEFT_PIVOT,
+    RIGHT_PIVOT,
+    MIDDLE_PIVOT
+}
